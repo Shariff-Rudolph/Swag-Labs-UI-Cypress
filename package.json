@@ -19,7 +19,7 @@
     "url": "https://github.com/Shariff-Rudolph/Swag-Labs-UI-Cypress/issues"
   },
   "homepage": "https://github.com/Shariff-Rudolph/Swag-Labs-UI-Cypress#readme",
-  "dependencies": {
-    "cypress": "^12.3.0"
+  "devDependencies": {
+    "cypress": "^12.4.1"
   }
 }
