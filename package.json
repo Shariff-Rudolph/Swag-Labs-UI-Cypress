@@ -1,0 +1,25 @@
+{
+  "name": "swag-labs-ui-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shariff-Rudolph/Swag-Labs-UI-Cypress.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Shariff Rudolph, Tonia Seenauth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shariff-Rudolph/Swag-Labs-UI-Cypress/issues"
+  },
+  "homepage": "https://github.com/Shariff-Rudolph/Swag-Labs-UI-Cypress#readme",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
